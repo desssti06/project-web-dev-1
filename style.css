@@ -1,0 +1,90 @@
+#header li {
+    display: inline;
+    float: right;
+
+}
+#header a{
+    color: aliceblue;
+    display: block;
+    text-align: center;
+    padding: 20px 16px;
+    text-decoration: none;
+}
+#header ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #6d9cd3;
+}
+
+#navbar li {
+    display: inline;
+    float: left;
+
+}
+#navbar a{
+    color: #27374D;
+    display: block;
+    text-align: center;
+    padding: 10px 15px ;
+    text-decoration: none;
+}
+#navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #c4cce1;
+}
+
+#banner{
+    background-image: url(openingbanner.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100%;
+    text-align: center;
+    font-size: 2.5em;
+    color: #27374D;
+    padding: 200px 15px ;
+}
+
+#aside {
+    float: right ;
+    padding: 60px  ;
+}
+
+#kotaksaran{
+    float: center ;
+    border: #27374D;
+    color: #27374D;
+    background-color: #c4cce1;
+    display: block;
+    text-align: center;
+    padding: 10px 15px ;
+    margin: 4px 2px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+footer {
+    background-color: #27374D;
+    text-align: center;
+    color: #c4cce1;
+    padding: 10px 15px ;
+}
+main {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Wix Madefor Text', sans-serif;
+}
+h1{
+    text-align: center;
+    float: center;
+}
+img.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
